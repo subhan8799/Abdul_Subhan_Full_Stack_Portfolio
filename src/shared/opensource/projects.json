@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "Office Managment System",
+      "createdAt": "2020-04-13T04:18:19Z",
+      "url": "https://www.oms.enigmatix.co/",
+      "description": "Automated payroll processing, reducing manual intervention and streamlining nancial operations.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "ReactJS",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "NPM",
+          "iconifyClass": "simple-icons:npm"
+        }
+            ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Rent Around",
+      "createdAt": "2024-03-13T20:41:33Z",
+      "url": "https://app.rentarround.com/",
+      "description": "📦 The customer service section is developed using Next.js, styled with Tailwind CSS, and employs Ant Design (antd) for UI components,",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "ReactJS",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "NPM",
+          "iconifyClass": "simple-icons:npm"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Waterlogic",
+      "createdAt": "2022-03-06T16:26:54Z",
+      "url": "https://www.waterlogicaustralia.com.au/",
+      "description": "🔥 Essentially, it means you've built an interactive interface where users can browse through different types of dispensers, view detailed information about each model, and select or lter products based on dierent features like piercing options.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "ReactJS",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "NPM",
+          "iconifyClass": "simple-icons:npm"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Elevate Security",
+      "createdAt": "2020-02-11T14:50:20Z",
+      "url": "https://elevatesecurity.com/",
+      "description": "🌀 Enhanced system scalability, reliability, and security by breaking the application into independently deployable modules, reducing downtime during updates.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "ReactJS",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "NPM",
+          "iconifyClass": "simple-icons:npm"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "Journey App",
+      "createdAt": "2023-1-26T17:56:07Z",
+      "url": "https://twilight-shadow-36966.botics.co/",
+      "description": "⚙️ Implemented efficient API integration using Redux Toolkit, ensuring seamless state management and data flow throughout the application.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "ReactJS",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "NPM",
+          "iconifyClass": "simple-icons:npm"
+        }
+      ]
+    }
+  ]
+}
