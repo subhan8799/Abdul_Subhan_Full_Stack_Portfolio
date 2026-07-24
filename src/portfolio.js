@@ -24,9 +24,9 @@ const greeting = {
   subTitle:
     "Full-Stack Web Developer crafting scalable web applications, AI-powered platforms, modern interfaces, and cloud-ready products for ambitious teams.",
   resumeLink:
-    "https://drive.google.com/file/d/1DQDuJDrouS4em0tIdnFE5OG4QOBWw9Nb/view?usp=sharing",
+    "https://drive.google.com/file/d/1-L9ddZRjDWaa2eVg1EIX0VJOV63iQdef/view?usp=drive_link",
   resumeDownloadLink:
-    "https://drive.google.com/uc?export=download&id=1DQDuJDrouS4em0tIdnFE5OG4QOBWw9Nb",
+    "https://drive.google.com/file/d/1-L9ddZRjDWaa2eVg1EIX0VJOV63iQdef/view?usp=drive_link",
   portfolio_repository: "https://github.com/subhan8799/abdul-subhan-portfolio",
   githubProfile: "https://github.com/subhan8799",
 };
